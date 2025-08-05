@@ -41,5 +41,5 @@ Results are saved in `output/` directory with:
 - Performance summaries
 
 ## Requirements
-
-See `requirements.txt` for dependencies. 
+- Python 3.8.12
+See `requirements.txt` for further dependencies. 
