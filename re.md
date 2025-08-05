@@ -1,6 +1,5 @@
-# Micro Video Recommendation System
+# TMV-GCN: Temporal Multi-View Graph Convolution Networks for Micro-Video Recommendation.
 
-This repository contains a micro video recommendation system implementation with configurable training and inference modes.
 
 ## Project Structure
 
