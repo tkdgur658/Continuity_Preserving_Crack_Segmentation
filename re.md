@@ -25,12 +25,6 @@
 python main.py
 ```
 
-#### Inference Mode
-Run:
-```bash
-python main.py
-```
-
 ## Output Structure
 
 Results are saved in the `output/` directory with the following structure:
