@@ -1,6 +1,5 @@
 # TMV-GCN: Temporal Multi-View Graph Convolution Networks for Micro-Video Recommendation.
 
-
 ## Project Structure
 
 ```
