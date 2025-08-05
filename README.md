@@ -1,6 +1,6 @@
 # Crack Segmentation Project
 
-Crack segmentation using deep learning models.
+Continuity-Preserving Crack Segmentation via a Multi-Scale Bypass Network.
 
 ## Project Structure
 
