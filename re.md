@@ -16,10 +16,7 @@
 ### Prerequisites
 
 - Python 3.11
-- PyTorch
-- NumPy
-- Pandas
-- tqdm
+- requirements.txt
 
 ### Running Experiments
 
